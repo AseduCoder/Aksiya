@@ -1,5 +1,5 @@
 {
-  Aksiya:[
+  "Aksiya": [
   {
     "id": 1,
     "img": "../imgs/Kagmon.svg",
@@ -85,5 +85,4 @@
     "button": "Посмотреть"
   }
 ]
-
 }
